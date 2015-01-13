@@ -1,11 +1,11 @@
-@import url(//fonts.googleapis.com/css?family=Bitter:700|Dancing+Script|Merriweather:300,300italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Bitter:700|Dancing+Script|Merriweather:300,300italic,700,700italic);
 
   /*font-family: 'Bitter', serif;*/
   /*font-family: 'Dancing Script', cursive;*/
   /*font-family: 'Merriweather', serif;*/
 
 /* ----- Color Palette -----
-  
+
   green     #c2d957
   blue      #3ec1cd
   grey      #41505b
@@ -162,14 +162,14 @@ a.context-map-link {
   float: left;
   margin: 0 10px 10px 0;
   text-align: center;
-  border: 5px solid #feee58; 
-  background-color: #feee58; 
+  border: 5px solid #feee58;
+  background-color: #feee58;
   color: #41505b;
   font-size: 0.75em;
   font-weight: normal;
 }
 a.context-map-link:hover {
-  border: 5px solid #3ec1cd; 
+  border: 5px solid #3ec1cd;
   background-color: #3ec1cd;
   color: #fff;
 }
@@ -298,7 +298,7 @@ a.grfwd-toggle-link {
     top: 15rem;
   }
 }
-.macon-action-thumb-link img { 
+.macon-action-thumb-link img {
   width: 50px;
   max-width: none;
   height: auto;
@@ -306,11 +306,11 @@ a.grfwd-toggle-link {
   margin: 0 5px 5px 0;
 }
 @media (min-width: 40.063em) {
-  .macon-action-thumb-link img { 
+  .macon-action-thumb-link img {
     width: 75px;
   }
 }
-.macon-action-thumb-link.active img { 
+.macon-action-thumb-link.active img {
   border-color: #41505b;
 }
 .macon-action-caption {
